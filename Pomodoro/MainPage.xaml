@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Pomodoro.MainPage"
-             BackgroundColor="White">
+             BackgroundColor="Black">
 
     <ScrollView>
         <VerticalStackLayout
@@ -12,9 +12,9 @@
             <Image
                 Source="pomodoro_bot.png"
                 SemanticProperties.Description="Cute pomodoro bot waving hi to you!"
-                HeightRequest="200"
+                HeightRequest="500"
                 HorizontalOptions="Center" />
-            <Label x:Name="RemainingTimeLabel" FontSize="Header" Text="0" TextColor="Black" HorizontalOptions="Center"></Label>
+            <Label x:Name="RemainingTimeLabel" FontSize="Header" Text="0" TextColor="White" HorizontalOptions="Center"></Label>
             <Button Text="Start" Clicked="OnStartButtonClicked"></Button>
             <Button Text="Stop" Clicked="OnStopButtonClicked"></Button>
             <Button Text="Reset" Clicked="OnResetButtonClicked"></Button>
