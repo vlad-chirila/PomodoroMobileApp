@@ -1,6 +1,7 @@
 <p align="center">
 <img alt="Cute pomodoro logo. Enjoy!" src="Pomodoro/Resources/Images/pomodoro_bot.png">
 </p>
+
 # First MVP Pomodoro Technique Mobile Application
 ### BUSINESS DOCUMENTATION
 The first MVP (minimum viable product) for a Pomodoro technique mobile app would likely include the following features:
