@@ -50,5 +50,4 @@ Implementing a Pomodoro technique mobile app using MAUI (Microsoft .NET Multi-pl
 #### NOTE:
 To use MAUI, you will need to have the latest version of .NET 5 installed on your development machine. Also, you will need to make sure the target platforms (iOS, Android, and/or macOS) are configured correctly in the project settings.
 
-### TECH STACK
-#### TBD
+<img alt="screenshot" src="https://i.imgur.com/kLNvsCH.png">
