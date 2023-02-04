@@ -18,6 +18,8 @@
             <Button Text="Start" Clicked="OnStartButtonClicked"></Button>
             <Button Text="Stop" Clicked="OnStopButtonClicked"></Button>
             <Button Text="Reset" Clicked="OnResetButtonClicked"></Button>
+            <Button x:Name="ViewSettings" Text="Settings" Clicked="ViewSettingsButton_Clicked"></Button>
+            
         </VerticalStackLayout>
     </ScrollView>
 
